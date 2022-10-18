@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ### 자료구조
 - [ ] array
 - [x] single linked list 
-- [ ] double linked list
+- [x] double linked list
 - [ ] stack by linked list
 - [ ] stack by array
 - [ ] queue by linked list
