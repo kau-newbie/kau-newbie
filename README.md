@@ -14,18 +14,17 @@ You can click the Preview link to take a look at your changes.
 - [ ] queue by array
 - [ ] binary tree by linked list
 ___
-### 컴퓨터구조론
+### 컴퓨터구조
 - [ ] 복습하자!
 - [ ] 리눅스 os 책 하나읽기
 ___
-### arms assembly
+### arm assembly
 - [x] beginner 강의 완강
-~~[ ] 중간고사 만족하게 잘 보기~~
-~~[ ] 기말고사 만족스럽게 잘 보기~~
-- [ ] 원하는 대로 사고하기
+- [ ] while문과 for문을 assem에서?
 ___
-### 
-
+### 리눅스
+- [ ] 나만의 서버 만들기
+- [ ] 개발환경 
 
 ___
 `print("test_1")`
