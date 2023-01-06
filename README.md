@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # 응애 코딩공부 중
 
 ### 자료구조
-- [ ] array
+- [x] array
 - [x] single linked list 
 - [x] double linked list
 - [ ] stack by linked list
