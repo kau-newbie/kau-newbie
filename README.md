@@ -25,7 +25,7 @@ ___
 ### 리눅스, sys programming
 - [x] 나만의 서버 만들기
 - [x] CLion도 써보기 <- vim이 편하다 ㅎㅎ 
-- [x] Linking중 Relocation이 
+- [x] Linking중 Relocation이 뭔데!
 ___
 `print("test_1")`
 ```py
