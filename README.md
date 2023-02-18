@@ -16,16 +16,16 @@ You can click the Preview link to take a look at your changes.
 ___
 ### 컴퓨터구조
 - [ ] 복습하자!
-- [ ] 리눅스 os 책 하나읽기
+- [x] 리눅스 os 책 하나읽기
 ___
 ### arm assembly
 - [x] beginner 강의 완강
 - [ ] while문과 for문을 assem에서?
 ___
-### 리눅스
-- [ ] 나만의 서버 만들기
-- [ ] 개발환경 
-
+### 리눅스, sys programming
+- [x] 나만의 서버 만들기
+- [x] CLion도 써보기 <- vim이 편하다 ㅎㅎ 
+- [x] Linking중 Relocation이 
 ___
 `print("test_1")`
 ```py
