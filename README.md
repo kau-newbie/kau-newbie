@@ -4,6 +4,14 @@ You can click the Preview link to take a look at your changes.
 --->
 # 응애 코딩공부 중
 
+### web programming
+- [x] html youtube lecture
+- [x] css youtube lecture
+- [x] js youtube lecture
+- [x] making my 1st website
+- [x] jquery로 이것저것 만들기
+- [] react.js가 핫하대, 맛보기
+___
 ### 자료구조
 - [x] array
 - [x] single linked list 
@@ -24,16 +32,10 @@ ___
 ___
 ### 리눅스, sys programming
 - [x] 나만의 서버 만들기
-- [x] CLion도 써보기 <- vim이 편하다 ㅎㅎ 
+- [x] CLion도 써보기 <- vim이 편하다 <- vscode로 결국....
 - [x] Linking중 Relocation이 뭔데!
 
 ___
 ### 자격증 따보기
-- [ ] 네트워크관리사 2급
-- [ ] 디지털포렌식 2급
-- [ ] BOB도 가보고 싶다....
-___
-`print("test_1")`
-```py
-for i in (1,3):
-        print('test_(1+%d)' %i)
+- [ ] 네트워크관리사 2급?
+- [ ] 디지털포렌식 2급?
