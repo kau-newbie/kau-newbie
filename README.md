@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - [x] js youtube lecture
 - [x] making my 1st website
 - [x] jquery로 이것저것 만들기
-- [] react.js가 핫하대, 맛보기
+- [ ] react.js가 핫하대, 맛보기
 ___
 ### 자료구조
 - [x] array
