@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 - [x] making my 1st website
 - [x] jquery로 이것저것 만들기
 - [ ] react.js가 핫하대, 맛보기
+- [ ] http통신과 json; Doit! 12장
+- [ ] 비동기통신; Doit! 13장
 ___
 ### 자료구조
 - [x] array
