@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # To Do List (~2025.12.31)
 
-### 나눗셈까지는 하는 게산기 만들기 with Verilog HDL
+### +-*/ 하는 계산기 만들기 with Verilog HDL
 - [ ] 설계
 - [ ] Verilog HDL로 구현
 - [ ] 기왕이면 FPGA 보드에 올리기까지
