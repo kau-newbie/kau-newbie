@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # To Do List (~2025.12.31)
 
 ## HW
-### +-*/ 그리고 root까지 하는 계산기 만들기 with Verilog HDL
+### +-*/ 계산기 만들기 with Verilog HDL
 - [x] 설계
 - [x] Verilog HDL로 구현
 - [ ] 검증/수정
