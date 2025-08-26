@@ -6,8 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 ## HW
 ### +-*/ 그리고 root까지 하는 계산기 만들기 with Verilog HDL
-- [ ] 설계
-- [ ] Verilog HDL로 구현
+- [x] 설계
+- [x] Verilog HDL로 구현
+- [ ] 검증/수정
 - [ ] 기왕이면 FPGA 보드에 올리기까지
 
 ## SW
@@ -25,5 +26,6 @@ You can click the Preview link to take a look at your changes.
 - [ ] FPGA 통한 데이터플레인 구현.
 
 ## SW
-- [ ] jVM
+- [ ] JVM
 - [ ] NFV
+- [ ] SDN
