@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 # 앞으로 더 해볼것들
 
 ## HW
-- [ ] FPGA 통한 데이터플레인 구현.
+- [ ] 
 
 ## SW
 - [ ] JVM
