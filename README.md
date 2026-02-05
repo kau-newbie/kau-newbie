@@ -2,14 +2,7 @@
 kau-newbie/kau-newbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# To Do List (~2025.12.31)
-
-## HW
-### +-*/ 계산기 만들기 with Verilog HDL
-- [x] 설계
-- [x] Verilog HDL로 구현
-- [ ] 검증/수정
-- [ ] 기왕이면 FPGA 보드에 올리기까지
+# To Do List 
 
 ## SW
 ### '시장 순환 모델'을 바탕으로 주식하는 봇 만들기
@@ -17,15 +10,3 @@ You can click the Preview link to take a look at your changes.
 - [ ] web page 만들기
 - [ ] 서버 열어두기
 - [ ] Docker 공부, 사용하기
-
----
-
-# 앞으로 더 해볼것들
-
-## HW
-- [ ] 
-
-## SW
-- [ ] JVM
-- [ ] NFV
-- [ ] SDN
