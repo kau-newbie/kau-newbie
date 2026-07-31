@@ -17,7 +17,7 @@ https://kau-newbie.github.io/
 - [ ] SpringBoot Server(as a backend & proxy)
   - [ ] with Docker,
     - [ ] Video Streaming Proxy
-    - [x] MVC (View at back-end)
+    - [x] DashBoard & Login (View at back-end)
 - [ ] Android(as a client(front-end))
 
 ### 국내시장 AI 플랫폼 (~09.28)
