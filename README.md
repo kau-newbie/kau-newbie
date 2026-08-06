@@ -11,12 +11,12 @@ https://kau-newbie.github.io/
 
 ### 프로젝트 홈캠 (~08.14)
 ####
-- [ ] rasberipy(as a cam)
-  - [ ] studying about video streaming from codec to webRTC
-  - [ ] code
-- [ ] SpringBoot Server(as a backend & proxy)
-  - [ ] with Docker,
-    - [ ] Video Streaming Proxy
+- [x] rasberipy(as a cam)
+  - [x] studying about video streaming from codec to webRTC
+  - [x] code
+- [x] SpringBoot Server(as a backend & proxy)
+  - [x] with Docker,
+    - [x] Video Streaming Proxy
     - [x] DashBoard & Login (View at back-end)
 - [ ] Android(as a client(front-end))
 
