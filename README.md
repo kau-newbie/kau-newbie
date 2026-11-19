@@ -40,4 +40,3 @@
 ## Contact
 
 - Blog: [kau-newbie.github.io](https://kau-newbie.github.io)
-- Email: 여기에 이메일 (원하면 추가)
