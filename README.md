@@ -34,7 +34,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=kau-newbie&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau-newbie&layout=donut&langs_count=10&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau-newbie&layout=compact&langs_count=10&hide_border=true" />
 </p>
 
 ## Contact
