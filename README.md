@@ -27,7 +27,7 @@
 | [couple-cam](https://github.com/kau-newbie/couple-cam) | 커플을 위한 원격 영상 연결 서비스 | Java |
 | [touchWhere](https://github.com/kau-newbie/touchWhere) | 안드로이드 UI 내비게이터 앱 | Kotlin |
 | [(구)lecture-sync (현)study-highway](https://github.com/kau-newbie/lecture-sync) | 강의 자료 정리·보완 플러그인 (지식 그래프, 문서 정리, Gmail 알림) | Python |
-| [simple-calculator](https://github.com/kau-newbie/simple-calculator) | Verilog HDL로 만든 계산기 | Verilog |
+| [verilog-modules](https://github.com/kau-newbie/verilog-modules) | Verilog HDL로 만든 모듈들 & 초월함수 지원 계산기까지 | Verilog |
 | [lgaimers9-pred-pitching](https://github.com/lg-first-penguin/lgaimers9-ensemble-v1) | LG Aimers9기 투수 제구성공 예측모델 | Python |
 
 ## GitHub Stats
